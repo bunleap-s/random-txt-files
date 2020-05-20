@@ -11,7 +11,7 @@ sudo apt-key add - < Release.key
 ```
 
 ## Icons : Paper
-```
+```bash
 #Add Repo
 sudo add-apt-repository -u ppa:snwh/ppa
 #Install Paper Icons
