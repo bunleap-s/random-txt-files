@@ -20,3 +20,8 @@ sudo apt install paper-icon-theme
 
 ## Styles : Arc-Dark
 Already install, just need to configure
+
+## Configure Login Screen
+```bash
+sudo apt install lightdm-gtk-greeter-settings
+```
